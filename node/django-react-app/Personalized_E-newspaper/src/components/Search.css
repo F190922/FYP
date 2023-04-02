@@ -1,0 +1,35 @@
+
+
+.txt{
+    width: 50%;
+    margin-left: 23%;
+ margin-top: 2%;
+  border: 2px solid #0c0a0a;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.btn{
+    margin-left: 43%;
+    background-color: #858484;
+    border-radius: 4px;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 5px;
+  
+  cursor: pointer;
+}
+.output{
+    margin-left: 2%;
+    text-align: justify;
+    margin-top: 1%;
+    margin-right: 2%;
+}
